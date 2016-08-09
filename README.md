@@ -1,0 +1,2 @@
+# huffpack
+Huffman packing algorithm
